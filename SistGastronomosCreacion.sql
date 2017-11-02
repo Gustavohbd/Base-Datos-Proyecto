@@ -60,7 +60,7 @@ go
 
 create table ingredientes(
 iding varchar(10) not null primary key,
-nombreing varchar(10) not null
+nombreing varchar(30) not null
 )
 go
 
